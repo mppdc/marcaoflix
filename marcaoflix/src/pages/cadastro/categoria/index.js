@@ -7,7 +7,7 @@ function PaginaCadastroCategoria () {
         <PaginaPadrao>
 
             <h1> Cadastro de categoria</h1>
-            <Link to="/">Voltar
+            <Link to="/">Voltar para a home
             </Link>
         </PaginaPadrao>
     );
