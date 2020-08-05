@@ -12,7 +12,7 @@ function Menu() {
                 <img src={Logo} className="Logo" alt="Bem vindo ao MarcãoFlix"></img>
             </Link>
             <Button as={Link} to="/cadastro/video/" className="ButtonLink">
-                Novo vídeo
+                Teste Camila
             </Button>
             <Button as={Link} to="/cadastro/video/" className="ButtonLink">
                 Novo vídeo
