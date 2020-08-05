@@ -14,6 +14,9 @@ function Menu() {
             <Button as={Link} to="/cadastro/video/" className="ButtonLink">
                 Novo vídeo
             </Button>
+            <Button as={Link} to="/cadastro/video/" className="ButtonLink">
+                Novo vídeo
+            </Button>
         </nav>
 
     );
